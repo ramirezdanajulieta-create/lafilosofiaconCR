@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260608234145LSP8DW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608234145BILM3C</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>LA FILOSOFIA </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Aprendamos un poco de filosofia </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Dana Julieta Ramirez Pacasira- Ana Sofia Perez Caicedo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780970463857</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>d1542f36-8e94-4415-8f9f-8b722f5a5336</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780971120488-4owmvh6v5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Unidad 1: Introducción a la filosofía </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad 1: Introducción a la filosofía </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780971120488-4owmvh6v5</odePageId>
+      <odeBlockId>block-1780971199074-fdi0fic3s</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780971120488-4owmvh6v5</odePageId>
+          <odeBlockId>block-1780971199074-fdi0fic3s</odeBlockId>
+          <odeIdeviceId>idevice-1780971199070-6a9r77azc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta primera unidad se abordará el estudio de la filosofía como una disciplina fundamental del pensamiento humano. Se explorará su origen en la Antigua Grecia, su significado etimológico y su importancia en el desarrollo del pensamiento crítico.</p>
+<p>Además, se analizarán las principales ramas de la filosofía, como la metafísica, la epistemología, la ética, la lógica y la estética, las cuales permiten comprender diferentes aspectos de la realidad, el conocimiento y la conducta humana.</p>
+<p>El propósito de esta unidad es que el estudiante reconozca la filosofía como una herramienta para cuestionar, reflexionar y comprender el mundo que lo rodea, desarrollando así habilidades de análisis y pensamiento crítico aplicables en su vida cotidiana.<img src="{{context_path}}/content/resources/seginda u1.avif" width="523" height="305" alt="imagen que representa la filosofia " /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780971199070-6a9r77azc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta primera unidad se abordará el estudio de la filosofía como una disciplina fundamental del pensamiento humano. Se explorará su origen en la Antigua Grecia, su significado etimológico y su importancia en el desarrollo del pensamiento crítico.</p>\n<p>Además, se analizarán las principales ramas de la filosofía, como la metafísica, la epistemología, la ética, la lógica y la estética, las cuales permiten comprender diferentes aspectos de la realidad, el conocimiento y la conducta humana.</p>\n<p>El propósito de esta unidad es que el estudiante reconozca la filosofía como una herramienta para cuestionar, reflexionar y comprender el mundo que lo rodea, desarrollando así habilidades de análisis y pensamiento crítico aplicables en su vida cotidiana.<img src=\"{{context_path}}/content/resources/seginda u1.avif\" width=\"523\" height=\"305\" alt=\"imagen que representa la filosofia \" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780972318819-p0oxsffxc</odePageId>
+  <odeParentPageId>page-1780971120488-4owmvh6v5</odeParentPageId>
+  <pageName>1 sección:</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1 sección:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780972318819-p0oxsffxc</odePageId>
+      <odeBlockId>block-1780972324780-ukf3wthe6</odeBlockId>
+      <blockName>¿Que es la Filosofia?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780972318819-p0oxsffxc</odePageId>
+          <odeBlockId>block-1780972324780-ukf3wthe6</odeBlockId>
+          <odeIdeviceId>idevice-1780972324777-cs7861ldu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La filosofía es una disciplina fundamental que se encarga de estudiar de manera crítica, racional y sistemática los problemas más profundos de la existencia humana. A diferencia de otras ciencias, la filosofía no se basa únicamente en la observación o la experimentación, sino en la reflexión lógica y argumentativa.</p>
+<p>El origen de la filosofía se sitúa en la Antigua Grecia alrededor del siglo VI a.C., cuando los pensadores comenzaron a dejar de lado las explicaciones míticas y religiosas para buscar respuestas racionales sobre el mundo. A estos primeros filósofos se les conoce como los presocráticos.</p>
+<p>+<img src="{{context_path}}/content/resources/WhatsApp Image 2026-06-08 at 9.55.21 PM.jpeg" width="641" height="305" alt="de donde proviene la palabra filosofia " /></p>
+<p>La filosofía busca responder preguntas como:</p>
+<ul style="list-style-type: circle;">
+<li>¿Qué es la realidad?<br /></li>
+<li>¿Quin soy yo?</li>
+<li>¿Qué es el conocimiento?</li>
+</ul>
+<p>Además, la filosofía desarrolla habilidades importantes como el pensamiento crítico, la argumentación, la reflexión y el análisis profundo de la realidad.</p>
+<p>En la vida cotidiana, la filosofía está presente cuando cuestionamos lo que vemos, analizamos decisiones o buscamos entender el sentido de las cosas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780972324777-cs7861ldu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La filosofía es una disciplina fundamental que se encarga de estudiar de manera crítica, racional y sistemática los problemas más profundos de la existencia humana. A diferencia de otras ciencias, la filosofía no se basa únicamente en la observación o la experimentación, sino en la reflexión lógica y argumentativa.</p>\n<p>El origen de la filosofía se sitúa en la Antigua Grecia alrededor del siglo VI a.C., cuando los pensadores comenzaron a dejar de lado las explicaciones míticas y religiosas para buscar respuestas racionales sobre el mundo. A estos primeros filósofos se les conoce como los presocráticos.</p>\n<p>+<img src=\"{{context_path}}/content/resources/WhatsApp Image 2026-06-08 at 9.55.21 PM.jpeg\" width=\"641\" height=\"305\" alt=\"de donde proviene la palabra filosofia \" /></p>\n<p>La filosofía busca responder preguntas como:</p>\n<ul style=\"list-style-type: circle;\">\n<li>¿Qué es la realidad?<br /></li>\n<li>¿Quin soy yo?</li>\n<li>¿Qué es el conocimiento?</li>\n</ul>\n<p>Además, la filosofía desarrolla habilidades importantes como el pensamiento crítico, la argumentación, la reflexión y el análisis profundo de la realidad.</p>\n<p>En la vida cotidiana, la filosofía está presente cuando cuestionamos lo que vemos, analizamos decisiones o buscamos entender el sentido de las cosas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780974598840-n92ervjvh</odePageId>
+  <odeParentPageId>page-1780972318819-p0oxsffxc</odeParentPageId>
+  <pageName>Actividad 1</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780974598840-n92ervjvh</odePageId>
+      <odeBlockId>block-1780974768453-oygarjdmn</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780974598840-n92ervjvh</odePageId>
+          <odeBlockId>block-1780974768453-oygarjdmn</odeBlockId>
+          <odeIdeviceId>idevice-1780974768451-2r0fl4o8y</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780974768451-2r0fl4o8y" data-evaluationb="false" data-evaluationid="0e53bc33-62aa-4168-9aa5-0c5a04764f2e"></div>
+            <div id="frmMainContainer-idevice-1780974768451-2r0fl4o8y" class="form-IDevice" data-id="idevice-1780974768451-2r0fl4o8y">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Selecciona la opcion correcta </p></div>
+                <div class="FRMP-GameScoreBoard" style="display:flex;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1780974768451-2r0fl4o8y">01:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780974768451-2r0fl4o8y" style="display:flex;">
+                      <button  id="frmStartGame-idevice-1780974768451-2r0fl4o8y" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780974768451-2r0fl4o8y" style="display:none;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780974768451-2r0fl4o8y" > </div>
+                        <div id="frmCover-idevice-1780974768451-2r0fl4o8y" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780974768451-2r0fl4o8y" class="form-results-container inline">
+                        <div id="form-score-idevice-1780974768451-2r0fl4o8y" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1780974768451-2r0fl4o8y" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780974768451-2r0fl4o8y" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1780974768451-2r0fl4o8y" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780974768451-2r0fl4o8y" type="button" value="Reiniciar"
+                            data-id="idevice-1780974768451-2r0fl4o8y" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780974768451-2r0fl4o8y" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1780974768451-2r0fl4o8y" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780974768451-2r0fl4o8y" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780974768451-2r0fl4o8y","evaluation":false,"evaluationID":"0e53bc33-62aa-4168-9aa5-0c5a04764f2e","repeatActivity":true,"isScorm":1,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1780974768451-2r0fl4o8y","questionsRandom":false,"percentageQuestions":"4","time":"1","eXeFormInstructions":"<p>Selecciona la opcion correcta </p>","questionsData":[{"id":"1780975203046-GUOI2","activityType":"selection","baseText":"<p>1. La filosofía se define mejor como:</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A. un conjunto de datos sin analices "],[true,"B. el estudio critico del pensamiento, el conocimiento y la realidad "],[false,"C. un deporte mental"],[false,"D. una religion"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780975430735-KH21C","activityType":"selection","baseText":"<p>2. La palabra filosofía significa:</p>","feedbackRight":"increible","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"A. amor por la sabiduría "],[false,"B. amor por la ciencia "],[false,"C. estudia el arte "],[false,"D. estudio de la naturaleza"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780975654889-SWTQG","activityType":"selection","baseText":"<p>2. La filosofía surgio en:</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A. Roma"],[true,"B. Grecia antigua"],[false,"C. Egipto moderno"],[false,"D. América"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780975776780-RAM4K","activityType":"selection","baseText":"<p>3. El significado de filosofía es:</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A. amor por la ciencia "],[true,"B. amor por la sabiduría "],[false,"C. amor por el arte"],[false,"D. amor por la guerra "]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780975832894-zvchy1mf9</odePageId>
+  <odeParentPageId>page-1780974598840-n92ervjvh</odeParentPageId>
+  <pageName>Ramas de la filosofía</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ramas de la filosofía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780975832894-zvchy1mf9</odePageId>
+      <odeBlockId>block-1780975836819-7edpikpg2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780975832894-zvchy1mf9</odePageId>
+          <odeBlockId>block-1780975836819-7edpikpg2</odeBlockId>
+          <odeIdeviceId>idevice-1780975836816-z0tb27h10</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La filosofía se divide en diferentes ramas o áreas de estudio, cada una encargada de analizar un aspecto específico de la realidad humana y del conocimiento. Estas ramas permiten organizar las preguntas filosóficas y profundizar en distintos temas.</p>
+<p>🔹 Metafísica</p>
+<p>La metafísica estudia la realidad en su sentido más general. Se pregunta por el ser, la existencia, el tiempo, el espacio y la naturaleza de la realidad. Por ejemplo: ¿Qué significa existir?</p>
+<p>🔹 Epistemología</p>
+<p>Se encarga del estudio del conocimiento humano. Analiza cómo se adquiere el conocimiento, si es verdadero o falso, y cuáles son sus límites. Preguntas como: ¿Cómo sabemos lo que sabemos?</p>
+<p>🔹 Ética</p>
+<p>Estudia la moral y las acciones humanas. Analiza lo que está bien y lo que está mal, y cómo deben actuar las personas en la sociedad.</p>
+<p>🔹 Lógica</p>
+<p>Estudia las reglas del razonamiento correcto. Permite identificar argumentos válidos y evitar errores en el pensamiento.</p>
+<p>🔹 Estética</p>
+<p>Se encarga del estudio de la belleza, el arte y la percepción estética. Analiza qué consideramos bello y por qué.</p>
+<p>Estas ramas son importantes porque ayudan a comprender el mundo desde diferentes perspectivas y a desarrollar una visión más completa de la realidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780975836816-z0tb27h10","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La filosofía se divide en diferentes ramas o áreas de estudio, cada una encargada de analizar un aspecto específico de la realidad humana y del conocimiento. Estas ramas permiten organizar las preguntas filosóficas y profundizar en distintos temas.</p>\n<p>🔹 Metafísica</p>\n<p>La metafísica estudia la realidad en su sentido más general. Se pregunta por el ser, la existencia, el tiempo, el espacio y la naturaleza de la realidad. Por ejemplo: ¿Qué significa existir?</p>\n<p>🔹 Epistemología</p>\n<p>Se encarga del estudio del conocimiento humano. Analiza cómo se adquiere el conocimiento, si es verdadero o falso, y cuáles son sus límites. Preguntas como: ¿Cómo sabemos lo que sabemos?</p>\n<p>🔹 Ética</p>\n<p>Estudia la moral y las acciones humanas. Analiza lo que está bien y lo que está mal, y cómo deben actuar las personas en la sociedad.</p>\n<p>🔹 Lógica</p>\n<p>Estudia las reglas del razonamiento correcto. Permite identificar argumentos válidos y evitar errores en el pensamiento.</p>\n<p>🔹 Estética</p>\n<p>Se encarga del estudio de la belleza, el arte y la percepción estética. Analiza qué consideramos bello y por qué.</p>\n<p>Estas ramas son importantes porque ayudan a comprender el mundo desde diferentes perspectivas y a desarrollar una visión más completa de la realidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780975975641-kg3i2h9vf</odePageId>
+  <odeParentPageId>page-1780975832894-zvchy1mf9</odeParentPageId>
+  <pageName>Actividad 2</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780975975641-kg3i2h9vf</odePageId>
+      <odeBlockId>block-1780976296210-5faobwb1y</odeBlockId>
+      <blockName>Adivina</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780975975641-kg3i2h9vf</odePageId>
+          <odeBlockId>block-1780976296210-5faobwb1y</odeBlockId>
+          <odeIdeviceId>idevice-1780976296209-igngzwh72</odeIdeviceId>
+          <odeIdeviceTypeName>guess</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="adivina-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780976296209-igngzwh72" data-evaluationb="false" data-evaluationid="0e53bc33-62aa-4168-9aa5-0c5a04764f2e"></div><div class="adivina-version js-hidden">2</div><div class="adivina-feedback-game"></div><div class="adivina-instructions gameQP-instructions"><p>Observa las letras, identifica y rellena las palabras que faltan.</p></div><div class="adivina-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DD%F0%E1%F7%E0%E4%F3%B2%FE%F3%E1%B2%FE%F7%E6%E0%F3%E1%BE%B2%FB%F6%F7%FC%E6%FB%F4%FB%F1%F3%B2%EB%B2%E0%F7%FE%FE%F7%FC%F3%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%E6%FB%FF%F7%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%A1%A2%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A2%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%B2%D7%E6%FB%F1s%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E6%E7%F6%FB%F3%B2%F7%FE%B2%E0%F3%E8%FD%FC%F3%FF%FB%F7%FC%E6%FD%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A1%BE%B0%E6%FB%FF%F7%B0%A8%A3%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%AE%E2%AC%A3%BC%B2%D7%E1%E6%F3%B2%E0%F3%FF%F3%B2%F7%E1%E6%E7%F6%FB%F3%B2%FE%F3%B2%FF%FD%E0%F3%FE%B2%EB%B2%FE%F3%B2%F1%FD%FC%F6%E7%F1%E6%F3%B2%FA%E7%FF%F3%FC%F32%AE%BD%E2%AC%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%E2%FB%E1%E6%F7%FF%FD%FE%FD%F5%7F%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E6%E7%F6%FB%F3%B2%F7%FE%B2%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%AE%E2%AC%A3%BC%B2%D7%E1%E6%F3%B2%E0%F3%FF%F3%B2%F7%E1%E6%E7%F6%FB%F3%B2%FE%F3%B2%FF%FD%E0%F3%FE%B2%EB%B2%FE%F3%B2%F1%FD%FC%F6%E7%F1%E6%F3%B2%FA%E7%FF%F3%FC%F32%AE%BD%E2%AC%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D7%E1%E6%7B%E6%FB%F1%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E6%E7%F6%FB%F3%B2%FE%F3%B2%F0%F7%FE%FE%F7%E8%F3%B2%EB%B2%F7%FE%B2%F3%E0%E6%F7%B2%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%AE%E2%AC%A3%BC%B2%D7%E1%E6%F3%B2%E0%F3%FF%F3%B2%F7%E1%E6%E7%F6%FB%F3%B2%FE%F3%B2%FF%FD%E0%F3%FE%B2%EB%B2%FE%F3%B2%F1%FD%FC%F6%E7%F1%E6%F3%B2%FA%E7%FF%F3%FC%F32%AE%BD%E2%AC%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%F7%E6%F3%F4%7F%E1%FB%F1%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E6%E7%F6%FB%F3%B2%F7%FE%B2%E1%F7%E0%B2%EB%B2%FE%F3%B2%E0%F7%F3%FE%FB%F6%F3%F6%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%AE%E2%AC%A3%BC%B2%D7%E1%E6%F3%B2%E0%F3%FF%F3%B2%F7%E1%E6%E7%F6%FB%F3%B2%FE%F3%B2%FF%FD%E0%F3%FE%B2%EB%B2%FE%F3%B2%F1%FD%FC%F6%E7%F1%E6%F3%B2%FA%E7%FF%F3%FC%F32%AE%BD%E2%AC%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DEa%F5%FB%F1%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E6%E7%F6%FB%F3%B2%F7%FE%B2%E0%F3%E8%FD%FC%F3%FF%FB%F7%FC%E6%FD%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%AE%E2%AC%A3%BC%B2%D7%E1%E6%F3%B2%E0%F3%FF%F3%B2%F7%E1%E6%E7%F6%FB%F3%B2%FE%F3%B2%FF%FD%E0%F3%FE%B2%EB%B2%FE%F3%B2%F1%FD%FC%F6%E7%F1%E6%F3%B2%FA%E7%FF%F3%FC%F32%AE%BD%E2%AC%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A7%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%F1%E6%FB%E4%F3%E6%F7%C6%E0%F3%FC%E1%FE%F3%E6%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A2%F7%A7%A1%F0%F1%A1%A1%BF%A4%A0%F3%F3%BF%A6%A3%A4%AA%BF%AB%F3%F3%A7%BF%A2%F1%A7%F3%A2%A6%A5%A4%A6%F4%A0%F7%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A3%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%AB%A5%A4%A0%AB%A4%A0%A2%AB%BF%FB%F5%FC%F5%E8%E5%FA%A5%A0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D3%F6%FB%E4%FB%FC%F3%B0%EF%EF</div><div class="adivina-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780977997109-smnhhgt2t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Unidad 2: filosofos y problemas filosoficas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad 2: filosofos y problemas filosoficas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Unidad 2: filosofos y problemas filosoficas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780977997109-smnhhgt2t</odePageId>
+      <odeBlockId>block-1780978074228-6baebnv6n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780977997109-smnhhgt2t</odePageId>
+          <odeBlockId>block-1780978074228-6baebnv6n</odeBlockId>
+          <odeIdeviceId>idevice-1780978074226-uwm9cvx90</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta segunda unidad se estudiarán algunos de los principales filósofos de la historia, como Sócrates, Platón y Aristóteles, reconociendo sus aportes más importantes al desarrollo del pensamiento filosófico y su influencia en la actualidad.</p>
+<p>Asimismo, se analizarán los principales problemas filosóficos relacionados con la verdad, el conocimiento, la realidad y la existencia humana, los cuales han sido objeto de reflexión a lo largo de la historia.</p>
+<p>El objetivo de esta unidad es que el estudiante comprenda cómo la filosofía ha evolucionado a través del pensamiento de grandes autores y cómo sigue siendo relevante para interpretar y cuestionar la realidad en la vida cotidiana.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780978074226-uwm9cvx90","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta segunda unidad se estudiarán algunos de los principales filósofos de la historia, como Sócrates, Platón y Aristóteles, reconociendo sus aportes más importantes al desarrollo del pensamiento filosófico y su influencia en la actualidad.</p>\n<p>Asimismo, se analizarán los principales problemas filosóficos relacionados con la verdad, el conocimiento, la realidad y la existencia humana, los cuales han sido objeto de reflexión a lo largo de la historia.</p>\n<p>El objetivo de esta unidad es que el estudiante comprenda cómo la filosofía ha evolucionado a través del pensamiento de grandes autores y cómo sigue siendo relevante para interpretar y cuestionar la realidad en la vida cotidiana.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780978139018-e203p0esy</odePageId>
+  <odeParentPageId>page-1780977997109-smnhhgt2t</odeParentPageId>
+  <pageName>filósofos importantes </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>filósofos importantes </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780978139018-e203p0esy</odePageId>
+      <odeBlockId>block-1780978185221-h8a6hfsrj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780978139018-e203p0esy</odePageId>
+          <odeBlockId>block-1780978185221-h8a6hfsrj</odeBlockId>
+          <odeIdeviceId>idevice-1780978185219-jkx42rjgk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de la historia, la filosofía ha sido desarrollada por grandes pensadores que han influido en la forma en que entendemos el mundo hoy.</p>
+<p>🔹 Sócrates</p>
+<p>Fue un filósofo griego considerado el padre de la filosofía moral. No dejó escritos, pero sus ideas se conocen gracias a su discípulo Platón. Su método de enseñanza era la mayéutica, que consiste en hacer preguntas para que las personas descubran la verdad por sí mismas.</p>
+<p>🔹 Platón</p>
+<p>Discípulo de Sócrates. Fundó la Academia de Atenas, una de las primeras instituciones educativas del mundo occidental. Escribió obras importantes como “La República”, donde analiza la justicia, la política y el Estado ideal.</p>
+<p>🔹 Aristóteles</p>
+<p>Fue discípulo de Platón y maestro de Alejandro Magno. Aportó en muchas áreas como la lógica, la ética, la biología y la política. Su forma de pensar fue más basada en la observación y la experiencia.</p>
+<p>Estos filósofos son fundamentales porque establecieron las bases del pensamiento filosófico occidental.<img src="{{context_path}}/content/resources/images.jpg" width="575" height="383" alt="imagen de estos filosofos " /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780978185219-jkx42rjgk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de la historia, la filosofía ha sido desarrollada por grandes pensadores que han influido en la forma en que entendemos el mundo hoy.</p>\n<p>🔹 Sócrates</p>\n<p>Fue un filósofo griego considerado el padre de la filosofía moral. No dejó escritos, pero sus ideas se conocen gracias a su discípulo Platón. Su método de enseñanza era la mayéutica, que consiste en hacer preguntas para que las personas descubran la verdad por sí mismas.</p>\n<p>🔹 Platón</p>\n<p>Discípulo de Sócrates. Fundó la Academia de Atenas, una de las primeras instituciones educativas del mundo occidental. Escribió obras importantes como “La República”, donde analiza la justicia, la política y el Estado ideal.</p>\n<p>🔹 Aristóteles</p>\n<p>Fue discípulo de Platón y maestro de Alejandro Magno. Aportó en muchas áreas como la lógica, la ética, la biología y la política. Su forma de pensar fue más basada en la observación y la experiencia.</p>\n<p>Estos filósofos son fundamentales porque establecieron las bases del pensamiento filosófico occidental.<img src=\"{{context_path}}/content/resources/images.jpg\" width=\"575\" height=\"383\" alt=\"imagen de estos filosofos \" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780978403163-wf03m1x6h</odePageId>
+  <odeParentPageId>page-1780978139018-e203p0esy</odeParentPageId>
+  <pageName>Actividad 3</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780978403163-wf03m1x6h</odePageId>
+      <odeBlockId>block-1780978407265-8y23hwlrf</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780978403163-wf03m1x6h</odePageId>
+          <odeBlockId>block-1780978407265-8y23hwlrf</odeBlockId>
+          <odeIdeviceId>idevice-1780978407263-2bg14jpkp</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780978407263-2bg14jpkp" data-evaluationb="false" data-evaluationid="0e53bc33-62aa-4168-9aa5-0c5a04764f2e"></div>
+            <div id="frmMainContainer-idevice-1780978407263-2bg14jpkp" class="form-IDevice" data-id="idevice-1780978407263-2bg14jpkp">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Completa la informacion</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1780978407263-2bg14jpkp">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780978407263-2bg14jpkp" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780978407263-2bg14jpkp" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780978407263-2bg14jpkp" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780978407263-2bg14jpkp" > </div>
+                        <div id="frmCover-idevice-1780978407263-2bg14jpkp" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780978407263-2bg14jpkp" class="form-results-container inline">
+                        <div id="form-score-idevice-1780978407263-2bg14jpkp" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1780978407263-2bg14jpkp" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780978407263-2bg14jpkp" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1780978407263-2bg14jpkp" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780978407263-2bg14jpkp" type="button" value="Reiniciar"
+                            data-id="idevice-1780978407263-2bg14jpkp" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780978407263-2bg14jpkp" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1780978407263-2bg14jpkp" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780978407263-2bg14jpkp" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780978407263-2bg14jpkp","evaluation":false,"evaluationID":"0e53bc33-62aa-4168-9aa5-0c5a04764f2e","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1780978407263-2bg14jpkp","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Completa la informacion</p>","questionsData":[{"id":"1780978852988-XFD5H","activityType":"fill","baseText":"<p>1. Sócrates utilizaba el metodo de la: <u>Mayéutica</u></p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1780979024222-F45RB","activityType":"fill","baseText":"<p>2. Platón escribió la obra: <u>La República</u></p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1780979116954-1GESN","activityType":"fill","baseText":"<p>3. Aristóteles fue maestro de: <u>Alejandro Magno </u></p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780979180721-32gyy80r6</odePageId>
+  <odeParentPageId>page-1780978403163-wf03m1x6h</odeParentPageId>
+  <pageName>problemas filosóficos </pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>problemas filosóficos </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780979180721-32gyy80r6</odePageId>
+      <odeBlockId>block-1780979229465-b4bqd84mb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780979180721-32gyy80r6</odePageId>
+          <odeBlockId>block-1780979229465-b4bqd84mb</odeBlockId>
+          <odeIdeviceId>idevice-1780979229462-8lxgd9p1z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La filosofía no solo estudia teorías, también analiza problemas fundamentales que no tienen una respuesta única. Estos problemas son preguntas profundas que han sido debatidas durante siglos.</p>
+<p>Algunos de los principales problemas filosóficos son:</p>
+<p><strong>- El problema de la verdad</strong></p>
+<p>Se pregunta qué es lo verdadero y si existe una verdad absoluta o si depende del punto de vista de cada persona.</p>
+<p><strong>- El problema del conocimiento</strong></p>
+<p>Analiza cómo los seres humanos adquieren conocimiento y si realmente podemos estar seguros de lo que sabemos.</p>
+<p><strong>- El problema de la realidad</strong></p>
+<p>Cuestiona qué es real y si la realidad es igual para todos o depende de la percepción.</p>
+<p><strong><img src="{{context_path}}/content/resources/images (1).jpg" width="558" height="550" alt="problemas " /></strong></p>
+<p>Se pregunta quiénes somos, cuál es nuestro propósito y cuál es el sentido de la vida.</p>
+<p>Estos problemas ayudan a desarrollar el pensamiento crítico, la reflexión profunda y la capacidad de cuestionar la realidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780979229462-8lxgd9p1z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La filosofía no solo estudia teorías, también analiza problemas fundamentales que no tienen una respuesta única. Estos problemas son preguntas profundas que han sido debatidas durante siglos.</p>\n<p>Algunos de los principales problemas filosóficos son:</p>\n<p><strong>- El problema de la verdad</strong></p>\n<p>Se pregunta qué es lo verdadero y si existe una verdad absoluta o si depende del punto de vista de cada persona.</p>\n<p><strong>- El problema del conocimiento</strong></p>\n<p>Analiza cómo los seres humanos adquieren conocimiento y si realmente podemos estar seguros de lo que sabemos.</p>\n<p><strong>- El problema de la realidad</strong></p>\n<p>Cuestiona qué es real y si la realidad es igual para todos o depende de la percepción.</p>\n<p><strong><img src=\"{{context_path}}/content/resources/images (1).jpg\" width=\"558\" height=\"550\" alt=\"problemas \" /></strong></p>\n<p>Se pregunta quiénes somos, cuál es nuestro propósito y cuál es el sentido de la vida.</p>\n<p>Estos problemas ayudan a desarrollar el pensamiento crítico, la reflexión profunda y la capacidad de cuestionar la realidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780979410871-zjn5zwoo7</odePageId>
+  <odeParentPageId>page-1780979180721-32gyy80r6</odeParentPageId>
+  <pageName>Actividad 4</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780979410871-zjn5zwoo7</odePageId>
+      <odeBlockId>block-1780979563013-nydbi06hl</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780979410871-zjn5zwoo7</odePageId>
+          <odeBlockId>block-1780979563013-nydbi06hl</odeBlockId>
+          <odeIdeviceId>idevice-1780979563011-h6vg8yx6y</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780979563011-h6vg8yx6y" data-evaluationb="false" data-evaluationid="0e53bc33-62aa-4168-9aa5-0c5a04764f2e"></div>
+            <div id="frmMainContainer-idevice-1780979563011-h6vg8yx6y" class="form-IDevice" data-id="idevice-1780979563011-h6vg8yx6y">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1780979563011-h6vg8yx6y">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780979563011-h6vg8yx6y" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780979563011-h6vg8yx6y" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780979563011-h6vg8yx6y" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780979563011-h6vg8yx6y" > </div>
+                        <div id="frmCover-idevice-1780979563011-h6vg8yx6y" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780979563011-h6vg8yx6y" class="form-results-container inline">
+                        <div id="form-score-idevice-1780979563011-h6vg8yx6y" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1780979563011-h6vg8yx6y" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780979563011-h6vg8yx6y" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1780979563011-h6vg8yx6y" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780979563011-h6vg8yx6y" type="button" value="Reiniciar"
+                            data-id="idevice-1780979563011-h6vg8yx6y" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780979563011-h6vg8yx6y" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1780979563011-h6vg8yx6y" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780979563011-h6vg8yx6y" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780979563011-h6vg8yx6y","evaluation":false,"evaluationID":"0e53bc33-62aa-4168-9aa5-0c5a04764f2e","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1780979563011-h6vg8yx6y","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1780979776829-OPR02","activityType":"true-false","baseText":"<p>1. La filosofía solo estudia teorías y no analiza problemas de la vida real.</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780979806786-GI3IE","activityType":"true-false","baseText":"<p>2. Los problemas filosóficos no tienen una única respuesta correcta.</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780979839209-NR2AH","activityType":"true-false","baseText":"<p>3. El problema de la verdad se pregunta si existe una verdad absoluta o depende del punto de vista.</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780979867016-TT8IU","activityType":"true-false","baseText":"<p>4. El problema del conocimiento estudia cómo los seres humanos adquieren el conocimiento.</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780979894962-B5P7X","activityType":"true-false","baseText":"<p>5. El problema de la realidad se refiere a si todo lo que vemos es exactamente igual para todas las personas.</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780979919989-KZ44C","activityType":"true-false","baseText":"<p>6. El problema del ser humano analiza quiénes somos y cuál es el sentido de la vida.</p>","feedbackRight":"increible","feedbackWrong":"te quedo mal ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
